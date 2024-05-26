@@ -1,0 +1,3 @@
+# .gitignore to block all files in this directory except for the .gitignore file
+*
+!.gitignore

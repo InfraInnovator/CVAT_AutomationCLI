@@ -1,0 +1,4 @@
+# Configuration file for CVAT API settings
+
+CVAT_API_URL = "http://your_cvat_host:8080/api"
+API_TOKEN = "you_api_token"
